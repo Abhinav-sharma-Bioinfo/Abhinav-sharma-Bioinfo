@@ -1,2 +1,4 @@
 Hi, I'm Abhinav Sharma 👋
-MSc Bioinformatics Graduate
+  Computational Biologist | MSc Bioinformatics
+
+I am a dedicated Bioinformatics researcher focused on using computational tools to decode biological complexity. I specialize in building efficient workflows to analyze genomic data.
